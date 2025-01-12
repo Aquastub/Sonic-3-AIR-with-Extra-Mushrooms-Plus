@@ -162,7 +162,7 @@
 			{
 				"InternalName": "Title Screen Music",
 				"DisplayName": "Title Screen Music",
-				"Variable": "TitleScreenMusic",
+				"Variable": "EM_TITLESCREEN_MUSIC",
 				"Category": "Title Screen",
 				"DefaultValue": "1",
 				"Options": {
