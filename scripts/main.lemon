@@ -48,7 +48,7 @@ function void extraMushroomsBS.discordRPC() // Blue Spheres
 function void PlayMusic()
 {
 	u8 music = D0.u8
-	if (music == MUSIC_TITLESCREEN && global.game_mode == 0x04 && TS_KNUCKLES == 2 && !Game.getSetting(SETTING_TITLE_SCREEN))
+	if (music == MUSIC_TITLESCREEN && global.game_mode == 0x04 && TS_KNUCKLES == 2 && !Game.getSetting(SETTING_TITLE_SCREEN) && TitleScreenMusic == 1)
 		Audio.playAudio("em_title", AudioContext.CONTEXT_MUSIC)
 	else base.PlayMusic()
 }
