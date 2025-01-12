@@ -1,12 +1,12 @@
 {
 	"Metadata":
 	{
-		"Name": "Sonic 3 A.I.R. with Extra Mushrooms",
-		"UniqueID": "extra-mushrooms",
-		"Author": "TheMushrunt",
+		"Name": "Sonic 3 A.I.R. with Extra Mushrooms Plus",
+		"UniqueID": "extra-mushrooms-plus",
+		"Author": "TheMushrunt and Aquastub",
 		"Description": "Edits to a few of Sonic 3 A.I.R.'s scripts to refine the overall experience, regardless of actual importance to the game.",
-		"ModVersion": "3.0.0",
-		"GameVersion": "24.02.02.0"
+		"ModVersion": "3.1.0",
+		"GameVersion": "24.02.02.1"
 	},
 	"OtherMods": {
 		"extra-character-slots-unlimited": {
