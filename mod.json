@@ -160,6 +160,17 @@
 				}
 			},
 			{
+				"InternalName": "Title Screen Music",
+				"DisplayName": "Title Screen Music",
+				"Variable": "TitleScreenMusic",
+				"Category": "Title Screen",
+				"DefaultValue": "1",
+				"Options": {
+					"0": "Vanilla/Custom",
+					"1": "Extra Mushrooms"
+				}
+			},
+			{
 				"InternalName": "Use Base Level Select",
 				"DisplayName": "Use Base Level Select",
 				"Variable": "LS_FORCE_BASE",
