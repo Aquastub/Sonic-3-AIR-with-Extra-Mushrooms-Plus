@@ -20,6 +20,7 @@ global u8 TS_SOUNDS
 global u8 NO_HUD
 global u8 INF_LIVES_DISPLAY
 global u8 EM_MODDED_GFX
+global u8 EM_TITLESCREEN_MUSIC
 global s16 modded_sonic_frame
 global u8 TS_COPYRIGHT
 global u8 EM_OGB_DISPLAY
